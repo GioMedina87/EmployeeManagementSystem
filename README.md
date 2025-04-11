@@ -43,3 +43,16 @@ Built and uploaded using Git on Windows 7 — proving that determination matters
 ## License
 
 This project is open-source. Feel free to use or modify it as you learn.
+
+## Screenshots
+
+### Program start:
+![Start](screenshot1.png)
+
+### Add employee example:
+![Add Employee](screenshot2.png)
+
+### Remove employee example:
+![Remove Employee](screenshot3.png)
+
+
